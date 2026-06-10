@@ -6,5 +6,4 @@ FROM (
     LIMIT 1 OFFSET 1
 ) AS SecondHighestSalary;
 
-https://leetcode.com/studyplan/top-sql-50/?utm_source=chatgpt.com
 
